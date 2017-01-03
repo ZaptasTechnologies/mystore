@@ -4,5 +4,5 @@ include("content.php");
 include("footer.php");
 
 
-echo "Pramod Changed";
+echo "All Changed by Pramod Changed";
 ?>
